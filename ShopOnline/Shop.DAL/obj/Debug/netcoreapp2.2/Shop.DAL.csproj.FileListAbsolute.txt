@@ -1,0 +1,10 @@
+F:\C#\ShopOnline\Shop.DAL\bin\Debug\netcoreapp2.2\Shop.DAL.deps.json
+F:\C#\ShopOnline\Shop.DAL\bin\Debug\netcoreapp2.2\Shop.DAL.runtimeconfig.json
+F:\C#\ShopOnline\Shop.DAL\bin\Debug\netcoreapp2.2\Shop.DAL.runtimeconfig.dev.json
+F:\C#\ShopOnline\Shop.DAL\bin\Debug\netcoreapp2.2\Shop.DAL.dll
+F:\C#\ShopOnline\Shop.DAL\bin\Debug\netcoreapp2.2\Shop.DAL.pdb
+F:\C#\ShopOnline\Shop.DAL\obj\Debug\netcoreapp2.2\Shop.DAL.csproj.CoreCompileInputs.cache
+F:\C#\ShopOnline\Shop.DAL\obj\Debug\netcoreapp2.2\Shop.DAL.AssemblyInfoInputs.cache
+F:\C#\ShopOnline\Shop.DAL\obj\Debug\netcoreapp2.2\Shop.DAL.AssemblyInfo.cs
+F:\C#\ShopOnline\Shop.DAL\obj\Debug\netcoreapp2.2\Shop.DAL.dll
+F:\C#\ShopOnline\Shop.DAL\obj\Debug\netcoreapp2.2\Shop.DAL.pdb

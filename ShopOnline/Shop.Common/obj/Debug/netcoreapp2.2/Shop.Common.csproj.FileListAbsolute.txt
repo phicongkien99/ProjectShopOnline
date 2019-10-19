@@ -1,0 +1,8 @@
+F:\C#\ShopOnline\Shop.Common\bin\Debug\netcoreapp2.2\Shop.Common.deps.json
+F:\C#\ShopOnline\Shop.Common\bin\Debug\netcoreapp2.2\Shop.Common.dll
+F:\C#\ShopOnline\Shop.Common\bin\Debug\netcoreapp2.2\Shop.Common.pdb
+F:\C#\ShopOnline\Shop.Common\obj\Debug\netcoreapp2.2\Shop.Common.csproj.CoreCompileInputs.cache
+F:\C#\ShopOnline\Shop.Common\obj\Debug\netcoreapp2.2\Shop.Common.AssemblyInfoInputs.cache
+F:\C#\ShopOnline\Shop.Common\obj\Debug\netcoreapp2.2\Shop.Common.AssemblyInfo.cs
+F:\C#\ShopOnline\Shop.Common\obj\Debug\netcoreapp2.2\Shop.Common.dll
+F:\C#\ShopOnline\Shop.Common\obj\Debug\netcoreapp2.2\Shop.Common.pdb

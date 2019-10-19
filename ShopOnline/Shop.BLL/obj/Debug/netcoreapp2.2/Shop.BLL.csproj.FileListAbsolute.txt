@@ -1,0 +1,14 @@
+F:\C#\ShopOnline\Shop.BLL\bin\Debug\netcoreapp2.2\Shop.BLL.deps.json
+F:\C#\ShopOnline\Shop.BLL\bin\Debug\netcoreapp2.2\Shop.BLL.dll
+F:\C#\ShopOnline\Shop.BLL\bin\Debug\netcoreapp2.2\Shop.BLL.pdb
+F:\C#\ShopOnline\Shop.BLL\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.dll
+F:\C#\ShopOnline\Shop.BLL\bin\Debug\netcoreapp2.2\Shop.DAL.dll
+F:\C#\ShopOnline\Shop.BLL\bin\Debug\netcoreapp2.2\Shop.DAL.pdb
+F:\C#\ShopOnline\Shop.BLL\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.xml
+F:\C#\ShopOnline\Shop.BLL\obj\Debug\netcoreapp2.2\Shop.BLL.csprojAssemblyReference.cache
+F:\C#\ShopOnline\Shop.BLL\obj\Debug\netcoreapp2.2\Shop.BLL.csproj.CoreCompileInputs.cache
+F:\C#\ShopOnline\Shop.BLL\obj\Debug\netcoreapp2.2\Shop.BLL.AssemblyInfoInputs.cache
+F:\C#\ShopOnline\Shop.BLL\obj\Debug\netcoreapp2.2\Shop.BLL.AssemblyInfo.cs
+F:\C#\ShopOnline\Shop.BLL\obj\Debug\netcoreapp2.2\Shop.BLL.csproj.CopyComplete
+F:\C#\ShopOnline\Shop.BLL\obj\Debug\netcoreapp2.2\Shop.BLL.dll
+F:\C#\ShopOnline\Shop.BLL\obj\Debug\netcoreapp2.2\Shop.BLL.pdb
